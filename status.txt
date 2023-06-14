@@ -107,5 +107,6 @@ major chnages for corporate and digital wallet logs
 corporate changes
 changes
 build new changes
+chan
 smart dashboard changes
 dashboard changes
