@@ -9,3 +9,4 @@ Reconcile functionality and some admin panel changes
 All admin and api changes to uploading including Fund Transfer,Beneficiary changes,Added User Wallet validation
 ecommerce changes and some client report changes
 changes
+corporate summary page changes
