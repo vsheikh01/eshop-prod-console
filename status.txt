@@ -34,3 +34,4 @@ Done
 New Deployment
 Changes
 Corporate Account Changes
+All new changes at once
