@@ -42,3 +42,4 @@ Cart Changes
 Quick Pay, Cart Purchase Changes
 Recent Changes
 changes
+New Changes
